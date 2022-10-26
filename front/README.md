@@ -1,3 +1,6 @@
+## Front-end -> dado Fork no projeto: (https://github.com/alura-cursos/aluraflix-front/tree/semana-1)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
